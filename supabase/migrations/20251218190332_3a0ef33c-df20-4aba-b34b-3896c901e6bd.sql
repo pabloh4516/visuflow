@@ -1,0 +1,1 @@
+ALTER TABLE cloaking_configs ADD COLUMN safe_redirect_url TEXT DEFAULT NULL;

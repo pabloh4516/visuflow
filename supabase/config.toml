@@ -1,0 +1,13 @@
+project_id = "ptnfrvvihpbudjrlzzhn"
+
+[functions.capture-screenshot]
+verify_jwt = false
+
+[functions.report-bot]
+verify_jwt = false
+
+[functions.serve-page]
+verify_jwt = false
+
+[functions.track-event]
+verify_jwt = false
